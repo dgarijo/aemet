@@ -1,0 +1,35 @@
+Nombre;Acrónimo;Unidades
+Velocidad media del viento;VV10m;m/s
+Dirección media del viento;DV10m;º (grados)
+Velocidad máxima del viento;VMAX10m;m/s
+Dirección de la velocidad máxima del viento;DMAX10m;º (grados)
+Temperatura del aire;TA;ºC
+Humedad relativa;HR;%
+Temperatura del punto de rocío;TPR;ºC
+Presión;PRES;hPa
+Precipitación;PREC;mm
+Presión reducida al nivel del mar;PRES_nmar;hPa
+Capa nieve;NIEVE;cm
+Temperatura máxima en 10 min;TAMAX10m;ºC
+Temperatura mínima en 10 minutos;TAMIN10m;ºC
+Temperatura máxima en 1 hora;TAMAX1h;ºC
+Temperatura mínima en 1 hora;TAMIN1h;ºC
+Reducción de la presión a altura del geopotencial ...;GEO925;m
+Reducción de la presión a altura del geopotencial ...;GEO850;m
+Reducción de la presión a altura del geopotencial ...;GEO700;m
+Hora y minuto de la temperatura máxima en 1 hora;HTAMAX1h;hora y minuto
+Hora y minuto de la temperatura mínima en 1 hora;HTAMIN1h;hora y minuto
+Visibilidad;VIS;Km
+Tiempo presente;TPRE;*Tabla 4680
+Insolación;INSO;min.
+Radiación global;RAGLOB;KJ/m2
+Temperatura suelo;TS;ºC
+Temperatura subsuelo 5cm;TSS5cm;ºC
+Precipitación acumulada líquida;PLIQTP;mm
+Precipitación acumulada sólida;PSOLTP;mm
+Recorrido del viento;RVIENTO;Hm
+Carga baterías;BAT;V
+Carga baterías (horaria);BATH;V
+;;
+;;
+*La tabla 4680 a la que hace referencia el tiempo presente, se encuentra en el fichero Tabla_ 4680.pdf de este directorio;;
